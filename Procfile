@@ -1,1 +1,1 @@
-worker: bash LegendBot
+worker: bash MAIN-REPO
