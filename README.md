@@ -1,5 +1,5 @@
 <h1 align="center">
-<b> 『†hê Lêɠêɳ̃dẞø†』 </b>
+<b> IRON-MAN-BOT </b>
 </h1>
 
 [![LEGENDBOT](https://telegra.ph/file/2dd82644aa7f19518fe60.jpg)](https://github.com/LEGEND-OS/LEGENDUSERBOT)
