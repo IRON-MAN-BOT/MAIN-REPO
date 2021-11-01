@@ -2,7 +2,7 @@
 <b> IRON-MAN-BOT </b>
 </h1>
 
-[![LEGENDBOT](https://telegra.ph/file/2dd82644aa7f19518fe60.jpg)](https://github.com/LEGEND-OS/LEGENDUSERBOT)
+[![LEGENDBOT](https://te.legra.ph/file/aed41c2de35ddc402ad5e.jpg)
 
 
 <p align="center">
