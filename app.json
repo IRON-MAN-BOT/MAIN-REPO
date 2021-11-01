@@ -129,7 +129,7 @@
       "description": "Copy Group Id And paste here To Get Plugin Channel ID copy and paste here",
       "value": ""
     }, 
-    "LEGEND_STRING": {
+    "IRON-MAN-BOT_STRING": {
       "description": "Get this value by running https://repl.it/@py1000/IRON-MAN-BOT#main.py ",
       "value": ""
     },
